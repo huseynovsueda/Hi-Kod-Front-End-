@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+ 
+<head>
+    
+<style>
+    table{color: orangered;
+    border-color:bisque;
+    }
+    tr, th, table{border-style:dashed;}
+
+</style>
+ 
+<body>
+    <table border="5" width="200px" align="center" cellpadding="30" >
+        <tr>
+            <th colspan="10" >HAFTALIK PLANLAYICIM</th>
+        </tr>
+       
+        <tr>
+            <th></th>
+            <th>PAZARTESİ</th>
+            <th>SALI</th>
+            <th>ÇARŞAMBA</th>
+            <th>PERŞEMBE</th>
+            <th>CUMA</th>
+            <th>CUMARTESİ</th>
+            <th>PAZAR</th>
+           
+        </tr>
+        <tr>
+            <th>08:30 10:00</th>
+			<td></td>
+            <td></td>
+			<td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>10:00 12:30</th> 
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+            <td></td>
+			<td></td>
+            <td></td>
+            
+        </tr>
+        <tr>
+            <th>13:00 15:00</th>
+            <td></td>
+			<td></td>
+            <td></td>
+			<td></td>
+            <td></td>
+            <td></td>
+			<td></td>
+			
+        </tr>
+        <tr>
+            <td>15:00 18:00</td>
+            <td></td>
+            <td></td>
+            <td></td>            			
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			
+        </tr>
+   
+    </table>
+</body>
+</head>
+</html>
